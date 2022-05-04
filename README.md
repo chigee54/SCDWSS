@@ -1,5 +1,7 @@
 # style-change-detection for 2021-CLEF
 
+### Paper: Style Change Detection Based On Writing Style Similarity
+
 ### 主要看finetune_change.py
 
 ### 其他都是一些杂七杂八的测试方案
